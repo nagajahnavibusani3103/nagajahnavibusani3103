@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**nagajahnavibusani3103/nagajahnavibusani3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Busani Naga Jahnavi 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI/ML) Student  
+🏫 VIT Bhopal University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning. I am passionate about learning new technologies, solving problems, and building useful projects.
+
+I enjoy exploring areas like web development, AI/ML, and working with data. I am currently focusing on improving my programming skills and understanding real-world applications of technology.
+
+---
+
+## 💻 Skills & Interests
+
+- Programming (Beginner level)
+- Web Development  
+- Artificial Intelligence & Machine Learning  
+- Problem Solving  
+- Data Exploration  
+
+---
+
+## 🚀 Goals
+
+- Build real-world projects  
+- Improve coding skills  
+- Learn advanced AI/ML concepts  
+- Contribute to open-source in the future  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Add your LinkedIn link here]
+
+---
+
+✨ *“Learning step by step and growing every day.”*
+
