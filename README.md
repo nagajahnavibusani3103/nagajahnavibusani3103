@@ -35,7 +35,7 @@ I enjoy exploring areas like web development, AI/ML, and working with data. I am
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: www.linkedin.com/in/naga-jahnavi-busani-4b391a37b
 
 ---
 
